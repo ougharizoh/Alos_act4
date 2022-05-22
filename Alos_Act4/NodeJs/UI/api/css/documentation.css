@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  background: white;
+  display: flex;
+  justify-content: center;
+}
+
+
+header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: rgb(0, 90, 159);
+	padding: 35px 100px 0;
+}
+
+@media (max-width: 1000px) {
+	header {
+		padding: 20px 50px;
+	}
+}
+@media (max-width: 700px) {
+	header {
+		flex-direction: column;
+	}
+	header h2 {
+		margin-bottom: 15px;
+	}
+	header .nav li {
+		margin: 0 7px;
+	}
+}
+
+nav {
+	/* width: 90%; */
+	/* align-items: center; */
+	grid-area: header; 
+	align-content: center;
+	background-color: transparent /*#307292*/;
+	padding: 0 10%  ;
+}
+
+
+	nav img {
+		box-sizing: border-box;
+		width: 150px;
+		fill-opacity: unset;
+	}
+nav ul {
+  list-style-type: none;
+
+}
+nav a {
+  
+  font-family: "Arial Rounded MT Bold","Arial",sans-serif; 
+  color: #FF6600; 
+  padding: 2px;
+  text-decoration: none;
+}
+nav a:hover {
+  /*text-decoration: underline;*/
+  color:  #FFD500;
+ /* background-color: green;*/
+ 	border-radius: 20px;
+ 	
+}
+
+.container {
+  position: relative;
+  background: #fff;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  filter: drop-shadow(0 0 10px
+          rgba(0, 0, 0, 0.5));
+}
+
+.accordion {
+  position: relative;
+  width: 120px;
+  margin-left: 80px;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 2rem;
+  text-align: center;
+  color: #005bb0;
+}
+
+.content-accordion {
+  margin-top: 35px;
+  margin-right: 50px;
+}
+
+
+.accordion-img {
+  position: relative;
+  width: 250px;
+  margin-right: 50px;
+}
+
+.title-question {
+  margin: 1.4rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+}
+
+
+
+
+@media screen and (min-width: 992px) {
+  .accordion {
+    width: 920px;
+    height: 0;
+    display: flex;
+  }
+
+  .accordion-img {
+    position: relative;
+    width: 280px;
+    top: 60px;
+  }
+
+  .question-answer {
+    width: 380px;
+  }
+
+  .content-accordion {
+    margin-top: 85px;
+  }
+
+  .title {
+    margin-top: 50px;
+    font-size: 3rem;
+  }
+}

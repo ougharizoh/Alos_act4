@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "app-get": "^1.0.3-beta",
+    "pg": "^8.7.3",
+    "sequelize": "^6.19.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

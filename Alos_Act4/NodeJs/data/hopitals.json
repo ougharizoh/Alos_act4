@@ -1,0 +1,790 @@
+{
+    "Hopitaux":[
+        {
+            "wilaya":[
+                {
+                    "id":1,
+                    "name":"Adrar",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital d'Adrar|Hôpital Ibn Sina d'Adrar",
+                                "Hôpital de Timimoun|Hôpital Mohamed Hachemi de Timimoun",
+                                "Hôpital de Reggane",
+                                "Hôpital d'Aoulef|Hôpital Noureddine Sahraoui d'Aoulef",
+                                "Hôpital de Bordj Badji Mokhtar",
+                                "Hôpital de Zaouiet Kounta",
+                                "Hôpital d'Aougrout",
+                                "Pôle hospitalier de Tililane",
+                                "Hôpital de Tililane (240 lits)",
+                                "Hôpital gériatrique de 120 lits.",
+                                "Hôpital psychiatrique de 120 lits.",
+                                "Centre anti-cancer de 120 lits."
+                            
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Chlef",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Ouled Mohamed.",
+                                "Hôpital de Chorfa.",
+                                "Hôpital Zighoud Youcef Ténès.",
+                                "Hôpital ancien de Ténès.",
+                                "Hôpital de Sobha.",
+                                "Hôpital de Chettia.",
+                                "Hôpital des sœurs Bedj",
+                                "Hôpital d'Aïn Merane"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "name":"Laghouat",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Hmida Ben Adjila de Laghouat.",
+                                "Hôpital d'Aflou."
+                          ]
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "name":"Oum el Bouaghi",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Mohamed Boudiaf d'Oum El Bouaghi.",
+                                "Hôpital ancien d'Oum El Bouaghi.",
+                                "Hôpital Zerdani Salah d'Aïn Beïda.",
+                                "Hôpital de Meskiana.",
+                                "Hôpital de Aïn M’lila.",
+                                "Hôpital de Aïn Fakroun."
+                             ]
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "name":"Batna",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Centre hospitalier universitaire de Batna|Hôpital Touhami Benflis de Batna",
+                                "Hôpital Mère et enfant Meriem Bouatoura Batna",
+                                "Hôpital Sanatorium + ORL (EPH de Batna)",
+                                "Centre Anti-cancer de Batna",
+                                "Hôpital d'Arris 1.",
+                                "Hôpital d'Arris 2.",
+                                "Hôpital de Mohamed Boudiaf de Barika.",
+                                "Hôpital de Amirat Slimane de Barika.",
+                                "Hôpital de Aïn Touta.",
+                                "Hôpital de Ali Nemer de Mérouana.",
+                                "Hôpital de Ziza Massika de Mérouana.",
+                                "Hôpital de N’Gaous.",
+                                "Hôpital d'El Madher."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":6,
+                    "name":"Béjaïa",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Frantz Fanon, Béjaïa.",
+                                "Hôpital Khelil Amrane, Béjaïa.",
+                                "Hôpital Targa Ouzemmour|3-Hôpital Targa Ouzemmour, Béjaïa.",
+                                "Hôpital Benmerad El Mekki, Amizour.",
+                                "Hôpital Akloul Ali, Akbou.",
+                                "Hôpital Rachid Belhocine, Sidi Aïch (Algérie)|Sidi Aïch.",
+                                "Hôpital Mohamed Arab Hannoz, Kherrata.",
+                                "Hôpital de Fenaïa Ilmaten.",
+                                "Hôpital d'Aokas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":7,
+                    "name":"Biskra",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Bachir Bennacer de Biskra.",
+                                "Hôpital Dr Saadane de Biskra.",
+                                "Hôpital de Ouled Djellal.",
+                                "Hôpital de Tolga."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":8,
+                    "name":"Béchar",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Béchar|EPH Boudjemaa Tourabi",
+                                "Hôpital de Taghit.",
+                                "Hôpital de Abadla.",
+                                "Hôpital de Béni Abbès.",
+                                "Hôpital de Mohamed Boudiaf (Debdaba)."
+                              ]
+                        }
+                    ]
+                },
+                {
+                    "id":9,
+                    "name":"Blida",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital  Hôpital Frantz Fanon|Frantz Fanon de Blida.",
+                                "Hôpital de Boufarik",
+                                "Hôpital de Meftah.",
+                                "Hôpital d'El Affroun.",
+                                "Hôpital psychiatrique de Blida.",
+                                "Centre anti-cancer de Blida."
+                              ]
+                        }
+                    ]
+                },
+                {
+                    "id":10,
+                    "name":"Bouira",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Bouira.",
+                                "Hôpital de M'Chedellah.",
+                                "Hôpital de Lakhdaria.",
+                                "Hôpital de Sour El Ghozlane.",
+                                "Hôpital de Aïn Bessam."
+                              ]
+                        }
+                    ]
+                },
+                {
+                    "id":11,
+                    "name":"Tamanrasset",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Tamanrasset.",
+                                "Hôpital de Aïn Salah."
+                              ]
+                        }
+                    ]
+                },
+                {
+                    "id":12,
+                    "name":"Tébessa",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Alia Salah de Tébessa.",
+                                "Hôpital Bouguerra Boulares de Tébessa.",
+                                "Hôpital de Morst.",
+                                "Hôpital d'El Aouinet.",
+                                "Hôpital Tedjini Haddam de Bir El Ater.",
+                                "Hôpital de Chréa.",
+                                "Hôpital de Ouenza."
+                              ]
+                        }
+                    ]
+                },
+                {
+                    "id":13,
+                    "name":"Tlemcen",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "CHU Tlemcen.",
+                                "Hôpital de Nedroma.",
+                                "Hôpital de Maghnia.",
+                                "Hôpital de Ghazaouet.",
+                                "Hôpital de Sebdou.",
+                                "Hôpital de Remchi.",
+                                "Hôpital de Mère-Enfants de Tlemcen."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":14,
+                    "name":"Tiaret",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Tiaret.",
+                                "Hôpital de Frenda.",
+                                "Hôpital de Mahdia.",
+                                "Hôpital de Sougueur.",
+                                "Hôpital de Ksar Chellala.",
+                                "Hôpital de Mère-Enfant Aourai Zahra.",
+                                "Hôpital de Psychiatrique Hamdani Adda.",
+                                "Hôpital Bouabdelli Bouabdellah."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":15,
+                    "name":"Tizi Ouzou",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Nedir Mohamed",
+                                "Hôpital Sidi Belloua|Unité Sidi Belloua de Tizi Ouzou",
+                                "Hôpital de Sebihi Tassadit de Tizi-Ouzou.",
+                                "Hôpital de Larbaa Nath Irathen.",
+                                "Hôpital de Tigzirt.",
+                                "Hôpital de Draa El Mizan.",
+                                "Hôpital de Boghni.",
+                                "Hôpital de Azazga.",
+                                "Hôpital de Azeffoun.",
+                                "Hôpital de Aïn El Hammam",
+                                "Hôpital de Oued Aïssi.",
+                                "Hôpital de Draâ Ben Khedda.",
+                                "Hôpital \"Petit Omar\" de Draâ Ben Khedda"
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":16,
+                    "name":"Alger",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Mustapha Pacha d'Alger",
+                                "CHU Lamine Debaghine de Bab El Oued (Ex Maillot)",
+                                "CHU Nafissa Hamoud de Hussein Dey (Ex Parnet)",
+                                "CHU Issad Hassani de Beni Messous",
+                                "Hôpital Pierre et Marie Curie (CPMC)",
+                                "Hôpital Maouche Mohand Amokrane (Ex CNMS)",
+                                "Hôpital Mohamed Abderrahmani (Les Castors)",
+                                "Hôpital Hassen Badi d'El Harrach (Ex Belfort)",
+                                "Hôpital Selim Zmirli d'El Harrach",
+                                "Hôpital Drid Hocine de Kouba",
+                                "Hôpital Mahfoud Boucebci de Chéraga.",
+                                "Hôpital d'Azur Plage.",
+                                "Hôpital Pr Abdelkader Boukhroufa de Ben Aknoun",
+                                "Hôpital de Tixéraïne",
+                                "Hôpital El Hadi Flici (Ex El Kettar)",
+                                "Hôpital Ali Aït Idir",
+                                "Hôpital Djillali Rahmoune (Ex Clinique les Oranges) d'El Mouradia",
+                                "Hôpital Bachir Mentouri de Kouba",
+                                "Hôpital Djillali Belkhenchir d'El Biar",
+                                "Hôpital Belkacemi Tayeb de Zéralda.",
+                                "Hôpital de Rouiba",
+                                "Hôpital de Bologhine",
+                                "Hôpital de Aïn Taya",
+                                "Hôpital Djillali Bounaâma de DOUERA"
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":17,
+                    "name":"Djelfa",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Djelfa.",
+                                "Hôpital de Aïn Oussara.",
+                                "Hôpital de Messaad.",
+                                "Hôpital de Hassi Bahbah.",
+                                "Hôpital ophtalmologique de Djelfa",
+                                "Hopital El Idrissia"
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":18,
+                    "name":"Jijel",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Jijel.",
+                                "Hôpital d'El Milia.",
+                                "Hôpital de Taher."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":19,
+                    "name":"Sétif",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Sétif.",
+                                "Hôpital d'El Eulma.",
+                                "Hôpital de Bougaa.",
+                                "Hôpital de Aïn El Kebira.",
+                                "Hôpital de Aïn Oulmène.",
+                                "Hôpital de Béni Ourtilène.",
+                                "Hôpital de Aïn Abassa.",
+                                "Hôpital de Ras El Ma."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":20,
+                    "name":"Saïda",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Ahmed Medghri.",
+                                "Hôpital Hamdane Bakhta."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":21,
+                    "name":"Skikda",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Skikda.",
+                                "Hôpital d'El Harrouch.",
+                                "Hôpital de Collo.",
+                                "Hôpital de Azzaba.",
+                                "Hôpital de Tamalous."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":22,
+                    "name":"Sidi Bel Abbès",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "CHU Dr Hassani Abdelkader.",
+                                "Hôpital Dahmani Slimane.",
+                                "Hôpital Hadid Aissa (Telagh).",
+                                "Hôpital Marok Abdelkader (Sfisef).",
+                                "Hôpital Yamloul Djaafar (Ben Badis).",
+                                "Hôpital de Sidi Bel Abbès.",
+                                "Hôpital de Sidi Bel Abbès."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":23,
+                    "name":"Annaba",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "CHU de Ibn Rochd",
+                                "CHU de Ibn sina",
+                                "CHU Dorban ",
+                                "Hôpital d'El Bouni. ",
+                                "Hôpital d'El Hadjar.",
+                                "Hôpital de Chetaïbi.",
+                                "Hôpital d'El Berda. ",
+                                "Hôpital de Seraïdi.",
+                                "Hôpital Er Razi."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":24,
+                    "name":"Guelma",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Hakim El Okbi de Guelma.",
+                                "Hôpital Ibn Zohour de Guelma.",
+                                "Hôpital de Aïn Larbi.",
+                                "Hôpital de Oued Zenati.",
+                                "Hôpital de Bouchegouf."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":25,
+                    "name":"Constantine",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Ibn Badis de Constantine.",
+                                "Hôpital El Bir de Constantine.",
+                                "Hôpital Mohamed Boudiaf d'El Khroub.",
+                                "Hôpital Ali Mendjeli d'El Khroub.",
+                                "Hôpital de Zighoud Youcef.",
+                                "Hôpital d'El Riad.",
+                                "Hôpital de Daksi.",
+                                "Hôpital de Djebel Ouahch.",
+                                "Hôpital de Sidi Mabrouk.",
+                                "Hôpital pédiatrique de la cité Mansourah."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":26,
+                    "name":"Médéa",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Médéa.",
+                                "Hôpital de Berrouaguia.",
+                                "Hôpital de Tablat.",
+                                "Hôpital de Aïn Boussif.",
+                                "Hôpital de Ksar El Boukhari.",
+                                "Hôpital de Béni Slimane",
+                                "Hôpital de Chellalet El Adhaoura"
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":27,
+                    "name":"Mostaganem",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Mostaganem. ",
+                                "CHU de Mostaganem Kharouba. ",
+                                "Hôpital de Aïn Tedlès.",
+                                "Hôpital de Sidi Ali.",
+                                "Hôpital de Mesra.",
+                                "Hôpital de Mère-Enfant Lalla Kheira.",
+                                "Hôpital de Psychiatrie Medjdoub Youcef."
+                                ]
+                        }
+                    ]
+                },
+                {
+                    "id":28,
+                    "name":"M'Sila",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de M'Sila.",
+                                "Hôpital de Boussaada.",
+                                "Hôpital de Sidi Aïssa.",
+                                "Hôpital de Aïn El Maleh."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":29,
+                    "name":"Mascara",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Meslem Tayeb.",
+                                "Hôpital de Issaad Khaled.",
+                                "Hôpital de Tighennif.",
+                                "Hôpital de Sig.",
+                                "Hôpital de Mohammadia.",
+                                "Hôpital de Ghriss.",
+                                "Hôpital de Bou Hanifia.",
+                                "Hôpital de Mascara.",
+                                "Hôpital de Zahana.",
+                                "Hôpital de Oued Al Abtal.",
+                                "Hôpital de Aouf.",
+                                "Hôpital de Mohammadia."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":30,
+                    "name":"Ouargla",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Ouargla.",
+                                "Hôpital de Touggourt.",
+                                "Hôpital de Hassi Messaoud.",
+                                "Hôpital de Taïbet."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":31,
+                    "name":"Oran",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Centre hospitalier et universitaire Benaouda Benzerdjeb",
+                                "Hôpital du {{1er}} Novembre 1954",
+                                "Hôpital de Madjbeur Tami de Aïn El-Turk",
+                                "Hôpital de El-Mohgoun.",
+                                "Hôpital Akid Othmane de Aïn El-Turk.",
+                                "Hôpital Hammou Boutlelis.",
+                                "Hôpital Emir Abdelkader",
+                                "Hôpital Boukhroufa Abdelkader",
+                                "Hôpital de Sidi Chahmi ",
+                                "Hôpital Benyahia Zohra",
+                                "Hôpital Tazi Fatima",
+                                "Hôpital Les Pins",
+                                "Hôpital Nouar Fadéla",
+                                "Hôpital Hadj Abed Atika"
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":32,
+                    "name":"El Bayadh",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital d'El Bayadh.",
+                                "Hôpital d'El Abiodh Sidi Cheikh.",
+                                "Hôpital de Bougtob."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":33,
+                    "name":"Illizi",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital d'Illizi." ,
+                                "Hôpital de Djanet."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":34,
+                    "name":"Bordj Bou Arreridj",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Bordj Bou Arreridj.",
+                                "Hôpital de Medjana.",
+                                "Hôpital de Ras El Oued."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":35,
+                    "name":"Boumerdès",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Thénia",
+                                "Hôpital de Bordj Ménaïel",
+                                "Hôpital de Dellys|Hôpital Mohamed Boudaoud de Dellys"
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":36,
+                    "name":"El Tarf",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital d'El Tarf.",
+                                "Hôpital d'El Kala.",
+                                "Hôpital de Bouhadjar."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":37,
+                    "name":"Tindouf",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Tindouf."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id":38,
+                    "name":"Tissemsilt",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Tissemsilt.",
+                                "Hôpital de Theniet El Had.",
+                                "Hôpital de Bordj bou Naama."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":39,
+                    "name":"El Oued",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Bachir Bennacer.",
+                                "Hôpital d'El Maghaïer.",
+                                "Hôpital de Djamaâ."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":40,
+                    "name":"Khenchela",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Ali Boushaba.",
+                                "Hôpital nouveau.",
+                                "Hôpital de Chechar.",
+                                "Hôpital de Kaïs."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":41,
+                    "name":"Souk Ahras",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Houari Boumediène Sédrata.",
+                                "Hôpital Ibn Rochd Souk-Ahras.",
+                                "Hôpital ancien Souk-Ahras."
+                                 ]
+                        }
+                    ]
+                },
+                {
+                    "id":42,
+                    "name":"Tipaza",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Lakhdar Bouchama.",
+                                "Hôpital Djellaloui Mohamed specialisé en psychiatrie.",
+                                "Hôpital de neuro-chirurgie Cherchell.",
+                                "Hôpital Dr Yahia Fares.",
+                                "Hôpital Koubaili Mohamed Erabat.",
+                                "Hôpital de Gouraïa."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":43,
+                    "name":"Mila",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Mohamed Medahi.",
+                                "Hôpital de Oued Athmania.",
+                                "Hôpital des frères Maghlaoui.",
+                                "Hôpital des frères Tobal.",
+                                "Hôpital de Chelghoum Laïd.",
+                                "Hôpital de Ferdjioua."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":44,
+                    "name":"Aïn Defla",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Hamou Makour.",
+                                "Hôpital de Khemis Miliana.",
+                                "Hôpital de Miliana.",
+                                "Hôpital d'El Attaf."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":45,
+                    "name":"Naâma",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital de Naama.",
+                                "Hôpital de Méchria.",
+                                "Hôpital de Aïn Sefra."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":46,
+                    "name":"Aïn Témouchent",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Benaouda Benzerdjeb.",
+                                "Hôpital Ahmed Medeghri.",
+                                "Hôpital de Béni Saf.",
+                                "Hôpital de Hammam Bouhadjar.",
+                                "Hôpital de Aïn Témouchent.",
+                                "Hôpital El amria"
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":47,
+                    "name":"Ghardaïa",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Brahim Tirichine.",
+                                "Hôpital de Metlili.",
+                                "Hôpital Gueddi Bakir.",
+                                "Hôpital d'El Ménéa.",
+                                "Hôpital de Guerrara."
+                               ]
+                        }
+                    ]
+                },
+                {
+                    "id":48,
+                    "name":"Relizane",
+                    "hospital":[
+                        {
+                            "etatique":[
+                                "Hôpital Mohamed Boudiaf.",
+                                "Hôpital de Mazouna.",
+                                "Hôpital de Oued Rhiou.",
+                                "Hôpital de Yellel",
+                                "Hôpital de Mendes",
+                                "Hôpital d'Ami Moussa",
+                                "Hôpital de Zemmora (en construction)"
+                               ]
+                        }
+                    ]
+                }    
+
+
+                ]    
+        }
+    ]
+}
